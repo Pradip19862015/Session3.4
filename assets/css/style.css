@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body{ 
+	margin:0px;
+	padding:0px;
+	outline:none;
+	font-size:16px; 
+	text-align:left; 
+}
+p{ margin:0px; padding:0px;}
+.logoWraper{  
+	font-size:18px;
+	font-weight: bold;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+} 
+.firstWord{
+	font-size:30px;
+	background-color:#291c13;
+	color:#eeeae7;
+	padding: 15px;
+	display:inline-block;
+	font-weight:normal;
+}
+.secondWord{  
+	color:#ffffff;
+	font-weight: bold;
+}
